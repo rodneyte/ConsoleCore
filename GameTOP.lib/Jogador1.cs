@@ -6,7 +6,7 @@ namespace GameTOP.lib
     {
         public readonly string _Nome;
         
-        public Jogador1(string nome ="Ronaldo")
+        public Jogador1(string nome ="Ronaldo testes")
         {
             _Nome = nome;
         }
